@@ -1,7 +1,7 @@
 --Made by Kells McDonald III--
 
 --BUILD INSTRUCTIONS--
-This program requires OpenJDK
+This program requires OpenJDK 11
 Go into a Bash-compatible console and input: 
 "java AutoComplete" 
 or alternatively
