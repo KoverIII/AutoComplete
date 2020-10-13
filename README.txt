@@ -4,4 +4,4 @@
 This program requires Java
 Go into a Bash-compatible console and input: 
 "java AutoComplete" 
-and it should run
+inside this folder and it should run
