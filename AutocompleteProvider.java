@@ -33,7 +33,7 @@ public class AutocompleteProvider{
 
     void train(String passage){
  
-        String[] arr = passage.split(" ");
+        String[] arr = passage.split("[.?! ]");
         int arrLength = arr.length;
         
         //Check if the candidate is a duplicate; if not, add it to the list; if so, then add 1 to the confidence
